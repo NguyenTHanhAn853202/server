@@ -1,0 +1,32 @@
+{
+  "song": [
+    {
+      "id": 1,
+      "title": "Bước qua đời nhau",
+      "description": "Bài hát được thể hiện bở ca sĩ Vũ",
+      "audio": "audio/buocquadoinhau.mp3",
+      "background": "img/backgroundsong2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tháng tư là lời nói dối của em",
+      "description": "Bài hát được thể hiện bở ca sĩ Tuấn Anh",
+      "audio": "audio/thang4laloinoidoicuaa.mp3",
+      "background": "img/backgroundsong1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Thanh Xuân",
+      "description": "Bài hát được thể hiện bở nhóm dalat",
+      "audio": "audio/thanhxuan.mp3",
+      "background": "img/backgroundsong4.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Thở",
+      "description": "Bài hát được thể hiện bở...",
+      "audio": "audio/tho.mp3",
+      "background": "img/background.jpg"
+    }
+  ]
+}
